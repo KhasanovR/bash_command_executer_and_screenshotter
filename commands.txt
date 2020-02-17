@@ -1,0 +1,13 @@
+echo “HELLO -START OF EXECUTION OF LINUX/UNIX COMMANDS”
+pwd
+ls
+ls -la
+uname –r
+uname –a
+cat palindrome.c
+cat key_search.c
+cp sum_avgl.c sa_list.c
+cat sa_list.c
+cp lower2upper.c l2u.c
+cat l2u.c
+mkdir spha1
